@@ -1,4 +1,6 @@
 nodecommerce
 ============
 
-E-commerce solution written for node.js
+Open Source E-commerce solution written for node.js
+
+
